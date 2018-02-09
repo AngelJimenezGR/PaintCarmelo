@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PaintCarmelo</string>
+    //-------------------------------------
+    <string-array name="colorfull">
+        <item>Blanco</item>
+        <item>Amarillo</item>
+        <item>Morado</item>
+        <item>Negro</item>
+        <item>Naranja</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </string-array>
+
+    <string-array name="fondo">
+        <item>Blanco</item>
+        <item>Amarillo</item>
+        <item>Morado</item>
+        <item>Negro</item>
+        <item>Naranja</item>
+        <item>Marron</item>
+        <item>Rojo</item>
+        <item>Azul</item>
+    </string-array>
+
+    <string-array name="style">
+        <item>Normal</item>
+        <item>Realzar</item>
+        <item>Difuminar</item>
+        <item>Clear</item>
+    </string-array>
+</resources>
